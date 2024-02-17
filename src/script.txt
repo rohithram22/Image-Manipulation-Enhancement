@@ -1,0 +1,15 @@
+load src/fruits.ppm Fruits
+vertical-flip Fruits vfFruits
+horizontal-flip Fruits hfFruits
+rgb-split Fruits redFruits greenFruits blueFruits
+brighten 50 Fruits brightenFruits
+brighten -50 Fruits darkenFruits
+greyscale Fruits greyscaleFruits
+sepia Fruits sepiaFruits
+blur Fruits blurFruits
+sharpen Fruits sharpenFruits
+dither Fruits ditherFruits
+save res/ditherFruits.png ditherFruits
+save res/sepiaFruits.jpeg sepiaFruits
+save res/greyscaleFruits.bmp greyscaleFruits
+quit

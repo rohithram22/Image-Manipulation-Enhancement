@@ -1,0 +1,12 @@
+Steps to use GUI - 
+
+1) Open command prompt and navigate to the folder where the jar file is present.
+2) Type java -jar file_name.jar to access GUI.
+3) GUI displays and has 4 partitions - One to show the image that the user is currently working on, second is to display the histogram of the image at all times, third is to display the label of the histogram, and fourth is the panel that shows the functional buttons.
+4) Click on the load button to load the image.
+5) You can perform the following image operations by clicking on the buttons provided in the panel - Blur, Brighten, Dither, Greyscale, Vertical Flip, Horizontal Flip, Sepia, Sharpen.
+6) On clicking the button respective changes are made on the image and the histogram changes accordingly.
+7) By clicking on "Split into RGB" button, the loaded image is split into red green blue greyscale images and gives you an option to save the images when clicked on the Save button on the pop-up.
+8) When clicked on "Combine RGB Images" it prompts you for red green and blue greyscale images and gives you a compiled output.
+9) When clicked on "Save" image open in the image panel is saved based on the name you provide.
+10) By clicked on quit the user can quit the program.  
