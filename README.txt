@@ -1,4 +1,3 @@
-CS 5010 - Assignment 4 
 IME: Image Manipulation and Enhancement
 
 Design Overview - 
